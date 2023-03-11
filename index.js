@@ -38,3 +38,5 @@ function appendCat(name){
     let cats2 = cats.slice(1);
         return cats2;
   }
+
+//   .
