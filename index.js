@@ -39,4 +39,4 @@ function appendCat(name){
         return cats2;
   }
 
-//   .
+//   End of my code
